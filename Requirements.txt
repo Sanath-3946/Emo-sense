@@ -1,0 +1,7 @@
+OpenCV
+DeepFace
+moviepy
+pydub
+SpeechRecognition
+transformers
+matplotlib
