@@ -1,4 +1,4 @@
-# Emotion Classifier
+# Emo-sense - A video based menatl health assessment
 
 This project analyzes the emotions from a video by detecting faces and transcribing the audio. It uses DeepFace for facial emotion recognition, SpeechRecognition for audio transcription, and a transformer model for text-based emotion classification.
 
