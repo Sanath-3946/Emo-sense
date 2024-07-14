@@ -2,6 +2,7 @@
 
 This project analyzes the emotions from a video by detecting faces and transcribing the audio. It uses DeepFace for facial emotion recognition, SpeechRecognition for audio transcription, and a transformer model for text-based emotion classification.
 
+Minor Project Collaborated with https://github.com/bhavithareddy-05
 ## Project Structure
 
 - `process_video.py`: Contains functions for processing video frames and detecting facial emotions.
